@@ -37,6 +37,8 @@ hi PreProc		  term=underline  ctermfg=darkblue	guifg=#ff80ff
 hi Type			  term=underline  cterm=bold ctermfg=lightgreen  gui=bold  guifg=#60ff60
 hi Error		  term=reverse	ctermfg=darkcyan  ctermbg=black  guifg=Red	guibg=Black
 hi Todo			  term=standout  ctermfg=black	ctermbg=darkcyan  guifg=Blue  guibg=Yellow
+hi Pmenu 		  guibg=MediumBlue
+
 hi link IncSearch		Visual
 hi link String			Constant
 hi link Character		Constant
